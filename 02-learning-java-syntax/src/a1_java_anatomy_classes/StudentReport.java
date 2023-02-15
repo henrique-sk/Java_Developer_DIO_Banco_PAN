@@ -1,3 +1,4 @@
+package a1_java_anatomy_classes;
 
 public class StudentReport {
   public static void main(String[] args) {
