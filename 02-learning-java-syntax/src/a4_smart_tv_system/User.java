@@ -1,4 +1,4 @@
-package smart_tv_system;
+package a4_smart_tv_system;
 
 public class User {
   public static void main(String[] args) {
