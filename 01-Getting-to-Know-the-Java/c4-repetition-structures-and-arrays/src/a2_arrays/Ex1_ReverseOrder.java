@@ -1,4 +1,4 @@
-package a1_arrays;
+package a2_arrays;
 
 /*
 Create an array of 6 integers

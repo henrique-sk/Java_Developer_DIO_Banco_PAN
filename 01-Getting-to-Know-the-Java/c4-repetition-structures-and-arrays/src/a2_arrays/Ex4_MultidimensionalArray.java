@@ -1,4 +1,4 @@
-package a1_arrays;
+package a2_arrays;
 
 import java.util.Random;
 
