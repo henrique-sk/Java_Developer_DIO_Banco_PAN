@@ -34,7 +34,7 @@ public class Stack {
   @Override
   public String toString() {
     String stringOutput = "---------------\n";
-    stringOutput += "    Pilha\n";
+    stringOutput += "    Stack\n";
     stringOutput += "---------------\n";
 
     Node secondaryNode = nodeReferenceStackInput;
